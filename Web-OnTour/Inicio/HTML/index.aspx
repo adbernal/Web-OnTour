@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 <html lang="en" class="no-js">
-    <!-- ENCABEZADO 2 -->
+    <!-- ENCABEZADO 2/3-->
     <head>
         <meta charset="utf-8"/>
         <title>Metronic "Aitonepage" Frontend Freebie</title>
